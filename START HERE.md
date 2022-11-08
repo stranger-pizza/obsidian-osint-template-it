@@ -16,25 +16,25 @@ These templates are suggestions of how the Obsidian notetaking tool can be used 
 > Consider adding your Standard Operating Procedure (SOP) tasks to the templates so they automatically populate when you make new notes.+
 
 ### Use the Templates
-- I created the [[person]] and [[domain or ip]] templates to illustrate how you can templatize the information you might need to collect during an investigation.
+- I created the [[informazioni_personali]] and [[domini]] templates to illustrate how you can templatize the information you might need to collect during an investigation.
 - Consider creating your own templates for other data you need to collect and placing those files in the `-- templates` directory.
 - Modify the existing templates to customize them for your needs.
 
 ## Linking Files
 - One of the most powerful features in Obsidian is the linking of data through Wikilink `[[]]` tags or a hashtag (`#`). 
-- As you will see in the example case files ([[Allister Kemp]]), Obsidian's ability to link files and tag each with arbitrary tags that YOU make up, is an incredible feature.
+- As you will see in the example case files ([[Mario Rossi]]), Obsidian's ability to link files and tag each with arbitrary tags that YOU make up, is an incredible feature.
 - The "Graph View"  (`ctrl-G` or `Cmd-G`) will use those links you create and show you related content. 
 
 ## Tasks
-- The [[-tasks for example files]] page automatically aggregates all tasks in this vault.
-- To make a task or "to do" item, start a bullet with `[ ] WHAT YOU WANT THE TASK TO BE`. Examples can be found [[Isiah Kemp#Username s]] and [[Gabriella Parkington#Residences]]
+- The [[Tasks da completare]] page automatically aggregates all tasks in this vault.
+- To make a task or "to do" item, start a bullet with `[ ] WHAT YOU WANT THE TASK TO BE`. Examples can be found [[Giovanni Verdi#Username s]] and [[Gabriele Bianchi#Residences]]
 
 ## Standard Operating Procedure (SOP) Template
 - Check out the files in the **Standard Operating Procedures** area like the [[Username]] file.
 - That directory path is an example to demonstrate how you can build your SOP (or links to sites you use) into your vault and keep it separate.
 
 ## Look At The Examples
-I created several example notes for you to see just some of the capabilities of this tool and these templates. I suggest starting with your #primary #poi [[Allister Kemp]]. 
+I created several example notes for you to see just some of the capabilities of this tool and these templates. I suggest starting with your #primary #poi [[Mario Rossi]]. 
 
 ## Always Looking to Improve
 Do you have suggestions on how to improve these templates? Want to contribute to the project?

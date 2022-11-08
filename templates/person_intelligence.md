@@ -1,51 +1,54 @@
-## PERSONAL INFORMATION [[Target File]]
- - First Name:
- - Middle Name:
- - Last Name:
- - Alias | Aka: 
- - Age:
- - Date of Birth:
- - City of Birth:
- - Country of Birth:
- - Nationality(ies):
+## Informazioni personali [[Target File]]
+ - Nome:
+ - Nome secondario:
+ - Cognome:
+ - Soprannome | Alias | Aka: 
+ - Età:
+ - Data di nascita:
+ - Città di nascita:
+ - Paese di nascita:
+ - Nazionalità:
  - Gender:
- - Height:
- - Weight:
- - Build: 
- - Eye Color: 
- - Hair color:
- - Skin Tone: 
- - Ethnicity:
- - General Physical Aspect: 
- - Gait: 
- - Resident Status: 
- - Distinctive signs (scars, tattoos):
- - SSN (Social Security Number): 
- - Passport Number(s) : 
+ - Altrezza:
+ - Peso:
+ - Corporatura: 
+ - Colore degli occhi: 
+ - Colore dei capelli:
+ - Tono della pelle: 
+ - Etnia:
+ - Aspetto fisico: 
+ - Passo: 
+ - Residenza: 
+ - Segni particolari (cicatrici, tattoo):
+ - CF (Codice fiscale) | SSN (Social Security Number): 
+ - Documenti di riconoscimento : 
 
 
 ## LOCATION
- - Current address: 
- - Other secondary addresses: 
- - Past addresses: 
- - Address of relatives:
- - Address of partner: 
- - Address of friends and contacts:
-- Places of habit/hangouts (sport, hobbies, bars etc..):
-- Other addresses of owned Land, Buildings, Warehouses, Storage, Garages:
+- Indirizzo corrente: 
+- Indirizzo secondario: 
+- Ultimo indirizzo: 
+- Indirizzo del partner: 
+- Altri indirizzi interessanti:
+- Luoghi frequentati abitualmente (sport, hobbies, bars ecc..):
+- Altre proprietà:
 
 
-## CONTACT DETAILS
- - Phone number (landline): 
- - Mobile phone(s):
- - Mobile Apps (WhatsApp, Signal, Telegram):
+## CONTATTI
+ - Telefono fisso: 
+ - Cellulare:
+ - Servizi associati al numero (WhatsApp, Signal, Telegram):
  - Email(s): 
  - Website(s):
  - Blogs: 
- - Social Network profiles: 
+ - Profili social:
+	 - Facebook:
+	 - Instagram:
+	 - Twitter:
+	 - TikTok:
 
 
-## VEHICLE
+## MEZZI DI TRASPORTO
  - Valid driving license Y/N: 
  - Driving license number: 
  - Owns a Vehicle Y/N: 

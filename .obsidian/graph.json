@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "path: \"examplecase\"",
+  "search": "path: \"Case_bank_robbery_0123456\"",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
@@ -15,16 +15,16 @@
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": -0.8,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.85280898876405,
-  "collapse-forces": true,
-  "centerStrength": 0.344444444444444,
-  "repelStrength": 10,
-  "linkStrength": 0.75,
-  "linkDistance": 236,
-  "scale": 0.9792839810161941,
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 0.814583333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.28125,
+  "repelStrength": 13.4375,
+  "linkStrength": 0.432291666666667,
+  "linkDistance": 54,
+  "scale": 0.49822236469936204,
   "close": false
 }

@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "START HERE",
-      "path": "START HERE.md"
+      "basename": "Image analysis",
+      "path": "Standard Operating Procedures/Image analysis.md"
+    },
+    {
+      "basename": "GPS coordinates",
+      "path": "Standard Operating Procedures/GPS coordinates.md"
+    },
+    {
+      "basename": "Business name",
+      "path": "Standard Operating Procedures/Business name.md"
+    },
+    {
+      "basename": "Breach Data",
+      "path": "Standard Operating Procedures/Breach Data.md"
+    },
+    {
+      "basename": "ancestry_investigations",
+      "path": "Standard Operating Procedures/ancestry_investigations.md"
+    },
+    {
+      "basename": "domini",
+      "path": "templates/domini.md"
+    },
+    {
+      "basename": "informazioni_personali",
+      "path": "templates/informazioni_personali.md"
+    },
+    {
+      "basename": "genealogia_template",
+      "path": "templates/genealogia_template.md"
+    },
+    {
+      "basename": "person_intelligence",
+      "path": "templates/person_intelligence.md"
+    },
+    {
+      "basename": "Introduction Presentation",
+      "path": "Introduction Presentation.md"
     },
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "START HERE",
+      "path": "START HERE.md"
+    },
+    {
+      "basename": "Persons name",
+      "path": "Standard Operating Procedures/Persons name.md"
     },
     {
       "basename": "Username",
@@ -25,24 +69,12 @@
       "path": "Standard Operating Procedures/Phone number.md"
     },
     {
-      "basename": "Persons name",
-      "path": "Standard Operating Procedures/Persons name.md"
-    },
-    {
       "basename": "People Search Engine",
       "path": "Standard Operating Procedures/People Search Engine.md"
     },
     {
       "basename": "IP address",
       "path": "Standard Operating Procedures/IP address.md"
-    },
-    {
-      "basename": "Image analysis",
-      "path": "Standard Operating Procedures/Image analysis.md"
-    },
-    {
-      "basename": "GPS coordinates",
-      "path": "Standard Operating Procedures/GPS coordinates.md"
     },
     {
       "basename": "File",
@@ -65,64 +97,8 @@
       "path": "Standard Operating Procedures/Computer infrastructure.md"
     },
     {
-      "basename": "Business name",
-      "path": "Standard Operating Procedures/Business name.md"
-    },
-    {
-      "basename": "Breach Data",
-      "path": "Standard Operating Procedures/Breach Data.md"
-    },
-    {
-      "basename": "Example standalone mindmap",
-      "path": "examplecase/Example standalone mindmap.md"
-    },
-    {
-      "basename": "-tasks for example files",
-      "path": "examplecase/-tasks for example files.md"
-    },
-    {
-      "basename": "Isiah Kemp",
-      "path": "examplecase/selectors/people/Isiah Kemp.md"
-    },
-    {
-      "basename": "Gabriella Parkington",
-      "path": "examplecase/selectors/people/Gabriella Parkington.md"
-    },
-    {
-      "basename": "Allister Kemp",
-      "path": "examplecase/selectors/people/Allister Kemp.md"
-    },
-    {
-      "basename": "List of Possible locations",
-      "path": "examplecase/selectors/locations/List of Possible locations.md"
-    },
-    {
-      "basename": "62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia",
-      "path": "examplecase/selectors/locations/62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia.md"
-    },
-    {
-      "basename": "iwa.temp",
-      "path": "examplecase/selectors/domains/iwa.temp.md"
-    },
-    {
-      "basename": "domain or ip",
-      "path": "-- templates/domain or ip.md"
-    },
-    {
-      "basename": "person",
-      "path": "-- templates/person.md"
-    },
-    {
-      "basename": "Introduction Presentation",
-      "path": "Introduction Presentation.md"
-    },
-    {
       "basename": "Search engine",
       "path": "Standard Operating Procedures/Search engine.md"
-    },
-    {
-      "basename": "pexels-pixabay-220453",
-      "path": "examplecase/media/pexels-pixabay-220453.jpg"
     },
     {
       "basename": "-- Course Tracking Doc",

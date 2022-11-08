@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31cb4421f8ada7af",
+        "id": "09497db7fb6678ba",
         "type": "tabs",
         "children": [
           {
-            "id": "e44da65ffb441ab5",
+            "id": "85c1734de8f5031f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
-                "mode": "preview",
+                "file": "Standard Operating Procedures/Image analysis.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Standard Operating Procedures/Image analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Standard Operating Procedures/Image analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Standard Operating Procedures/Image analysis.md"
               }
             }
           },
@@ -147,26 +147,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 236
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e44da65ffb441ab5",
+  "active": "38ac4119e1e83983",
   "lastOpenFiles": [
-    "README.md",
-    "START HERE.md",
-    "Standard Operating Procedures/Username.md",
-    "Standard Operating Procedures/URL.md",
-    "Standard Operating Procedures/Physical address.md",
-    "Standard Operating Procedures/Phone number.md",
-    "Standard Operating Procedures/Persons name.md",
-    "Standard Operating Procedures/People Search Engine.md",
-    "Standard Operating Procedures/IP address.md",
-    "Standard Operating Procedures/Image analysis.md"
+    "Standard Operating Procedures/GPS coordinates.md",
+    "Standard Operating Procedures/Business name.md",
+    "Standard Operating Procedures/Breach Data.md",
+    "Standard Operating Procedures/ancestry_investigations.md",
+    "templates/domini.md",
+    "templates/informazioni_personali.md",
+    "templates/genealogia_template.md",
+    "templates/person_intelligence.md",
+    "templates/Grandfather.md",
+    "Introduction Presentation.md"
   ]
 }

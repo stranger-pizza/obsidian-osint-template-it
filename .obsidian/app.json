@@ -10,5 +10,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "fileSortOrder": "alphabetical",
-  "attachmentFolderPath": "example case/media"
+  "attachmentFolderPath": "example case/media",
+  "spellcheckLanguages": null
 }
